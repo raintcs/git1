@@ -14,6 +14,7 @@ public class Git1Application {
         System.out.println("真难");
         System.out.println(":静静你妹啊!");
         System.out.println("1234567");
+        System.out.println("滚!");
     }
 
 }
