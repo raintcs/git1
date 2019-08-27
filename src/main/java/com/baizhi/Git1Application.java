@@ -10,6 +10,7 @@ public class Git1Application {
         SpringApplication.run(Git1Application.class, args);
         System.out.println("my name is tcs");
         System.out.println("我想静静!");
+        System.out.println("静静是谁?");
     }
 
 }
