@@ -11,6 +11,7 @@ public class Git1Application {
         System.out.println("my name is tcs");
         System.out.println("我想静静!");
         System.out.println("静静是谁?");
+        System.out.println("真难");
     }
 
 }
